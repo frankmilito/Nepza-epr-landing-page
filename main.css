@@ -55,7 +55,7 @@ body {
     color:#000
 }
 .navbar-links button{
-    padding: 5px 3em;
+    padding: 8px 3em;
     width: 200px;
     font-size: 20px;
     background-color: #fff;
@@ -63,7 +63,6 @@ body {
     border-radius: 5px;
 }
 button{
-     padding: 5px 3em;
     font-size: 20px;
     background-color: #fff;
     border:1px solid #30C575;
