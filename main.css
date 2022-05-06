@@ -56,9 +56,11 @@ body {
 }
 button{
     padding: 5px 3em;
+    width: 200px;
     font-size: 20px;
     background-color: #fff;
-    border:1px solid #30C575
+    border:1px solid #30C575;
+    border-radius: 5px;
 }
 
 /* .navbar-links li:hover {
